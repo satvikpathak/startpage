@@ -119,7 +119,12 @@ const bookmarks = [
         "id": "LINKEDIN_ID",
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/feed/"
-      }
+      },
+      {
+      "id": "WHATSAPP_ID",
+      "label": "WhatsApp",
+      "url": "https://web.whatsapp.com/"
+     }
     ]
   }
 ];
